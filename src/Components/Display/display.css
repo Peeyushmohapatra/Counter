@@ -1,0 +1,8 @@
+.display{
+    height: 9%;
+    width: 5%;
+    border: 3px solid green;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
